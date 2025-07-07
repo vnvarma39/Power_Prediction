@@ -16,3 +16,4 @@ The predicted curve closely follows the curvature of the actual values, especial
 Error Growth with Horizon:
 Generally, the further out in time (e.g., Hour 5), the larger the divergence — which is expected in time series forecasting since uncertainty compounds with each step ahead.
 
+![image](https://github.com/user-attachments/assets/33c09036-1d4b-4696-a082-2d273fb3567d)
